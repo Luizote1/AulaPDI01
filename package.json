@@ -1,0 +1,26 @@
+{
+  "name": "aulapdi01",
+  "version": "1.0.0",
+  "description": "Primeiro programa para internet usando node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+  "start": "node index.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luizote1/AulaPDI01.git"
+  },
+  "keywords": [
+    "http"
+  ],
+  "author": "Luiz Gustavo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luizote1/AulaPDI01/issues"
+  },
+  "homepage": "https://github.com/Luizote1/AulaPDI01#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
